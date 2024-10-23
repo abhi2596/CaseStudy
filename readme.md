@@ -41,7 +41,7 @@ python agent.py --prompt "Your search prompt" --website "https://website-to-scra
 - `--website`: The starting URL for the scraping process
 
 ### Example Usage
-For a detailed example of how the scraper works, including sample output and execution logs, check out [Example.md](Example.md).
+For a detailed example of how the scraper works, including sample output and execution logs, check out [example.md](example.md).
 
 ## How It Works
 
